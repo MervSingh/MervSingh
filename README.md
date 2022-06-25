@@ -1,25 +1,23 @@
 ### Hi, I'm Merv! 👋
 
-I'm a PhD candidate at the [Cognitive Neuroscience Unit in Deakin University]([https://www.researchgate.net/profile/Mervyn-Singh-2](https://www.deakin.edu.au/psychology/our-research/cognitive-neuroscience-unit)), where I'm currently focused on applying advanced cognitive modelling and diffusion imaging techniques to understand the role of white matter pathways in the development of childhood motor inhibition.
+I'm a PhD candidate at the [Cognitive Neuroscience Unit](https://www.deakin.edu.au/psychology/our-research/cognitive-neuroscience-unit), where I'm currently researching the contribution of white matter pathways in the brain towards the development of childhood motor inhibition. To achieve this, my work involves the application of advanced cognitive modelling and diffusion imaging piplines to probe the development of brain structure and fucntion with greater specificity.
+
 
 ## Check out my work here:
 
-[ORCID](https://www.researchgate.net/profile/Mervyn-Singh-2) | [Google Scholar](https://www.researchgate.net/profile/Mervyn-Singh-2) | [ResearchGate](https://www.researchgate.net/profile/Mervyn-Singh-2)
+[ORCID](https://orcid.org/my-orcid?orcid=0000-0001-8058-3995)) | [Google Scholar](https://www.researchgate.net/profile/Mervyn-Singh-2) | [ResearchGate](https://www.researchgate.net/profile/Mervyn-Singh-2)
+
+## Or you reach me via social media:
+
+[Twitter](https://twitter.com/MervynSingh1)) | [LinkedIn](https://www.linkedin.com/in/mervyn-singh/)
 
 
-## Or reach me via social media:
-
-[Twitter](https://twitter.com/MervynSingh1)) | 
-
-
-
-
+## GitHub-specific stats
 
 [![Merv's GitHub stats](https://github-readme-stats.vercel.app/api?username=MervSingh)](https://github.com/MervSingh/github-readme-stats)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MervSingh&layout=compact)](https://github.com/MervSingh/github-readme-stats)
-
 
 <!--
 **MervSingh/MervSingh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
