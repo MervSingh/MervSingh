@@ -1,10 +1,15 @@
 ### Hi, I'm Merv! 👋
 
-I'm a PhD candidate at the Cognitive Neuroscience Unit in Deakin University, where I'm currently focused on applying advanced cognitive modelling and diffusion imaging techniques to understand the role of white matter pathways in the development of childhood motor inhibition.
+I'm a PhD candidate at the [Cognitive Neuroscience Unit in Deakin University]([https://www.researchgate.net/profile/Mervyn-Singh-2](https://www.deakin.edu.au/psychology/our-research/cognitive-neuroscience-unit)), where I'm currently focused on applying advanced cognitive modelling and diffusion imaging techniques to understand the role of white matter pathways in the development of childhood motor inhibition.
+
+## Check out my work here:
+
+[ORCID](https://www.researchgate.net/profile/Mervyn-Singh-2) | [Google Scholar](https://www.researchgate.net/profile/Mervyn-Singh-2) | [ResearchGate](https://www.researchgate.net/profile/Mervyn-Singh-2)
 
 
+## Or reach me via social media:
 
-[ReseacrchGate]: https://www.researchgate.net/profile/Mervyn-Singh-2
+[Twitter](https://twitter.com/MervynSingh1)) | 
 
 
 
