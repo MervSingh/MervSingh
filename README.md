@@ -5,11 +5,11 @@ I'm a PhD candidate at the [Cognitive Neuroscience Unit](https://www.deakin.edu.
 
 ## Check out my work here:
 
-[ORCID](https://orcid.org/my-orcid?orcid=0000-0001-8058-3995)) | [Google Scholar](https://www.researchgate.net/profile/Mervyn-Singh-2) | [ResearchGate](https://www.researchgate.net/profile/Mervyn-Singh-2)
+[ORCID](https://orcid.org/my-orcid?orcid=0000-0001-8058-3995) | [Google Scholar](https://www.researchgate.net/profile/Mervyn-Singh-2) | [ResearchGate](https://www.researchgate.net/profile/Mervyn-Singh-2)
 
 ## Or you reach me via social media:
 
-[Twitter](https://twitter.com/MervynSingh1)) | [LinkedIn](https://www.linkedin.com/in/mervyn-singh/)
+[Twitter](https://twitter.com/MervynSingh1) | [LinkedIn](https://www.linkedin.com/in/mervyn-singh/)
 
 
 ## GitHub-specific stats
