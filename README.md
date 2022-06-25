@@ -4,9 +4,14 @@ I'm a PhD candidate at the Cognitive Neuroscience Unit in Deakin University, whe
 
 
 
+[ReseacrchGate](https://www.researchgate.net/profile/Mervyn-Singh-2)
+
+
+
 
 
 [![Merv's GitHub stats](https://github-readme-stats.vercel.app/api?username=MervSingh)](https://github.com/MervSingh/github-readme-stats)
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MervSingh&layout=compact)](https://github.com/MervSingh/github-readme-stats)
 
