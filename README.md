@@ -4,7 +4,7 @@ I'm a PhD candidate at the Cognitive Neuroscience Unit in Deakin University, whe
 
 
 
-[ReseacrchGate](https://www.researchgate.net/profile/Mervyn-Singh-2)
+[ReseacrchGate]: https://www.researchgate.net/profile/Mervyn-Singh-2
 
 
 
