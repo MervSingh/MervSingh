@@ -8,9 +8,8 @@ I'm a PhD candidate at the Cognitive Neuroscience Unit in Deakin University, whe
 
 [![Merv's GitHub stats](https://github-readme-stats.vercel.app/api?username=MervSingh)](https://github.com/MervSingh/github-readme-stats)
 
-api/top-langs?username=MervSingh
-
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MervSingh)](https://github.com/MervSingh/github-readme-stats)
+
 <!--
 **MervSingh/MervSingh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
