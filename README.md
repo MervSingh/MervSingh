@@ -1,8 +1,5 @@
 ## Hi, I'm Merv! 👋
 
-I'm a PhD candidate at the [Cognitive Neuroscience Unit](https://www.deakin.edu.au/psychology/our-research/cognitive-neuroscience-unit), where I'm currently researching the contribution of white matter pathways in the brain towards the development of childhood motor inhibition. To achieve this, my work involves the application of advanced cognitive modelling and diffusion imaging piplines to probe the development of brain structure and function with greater specificity. More broadly, I have a keen interest in furthering my skills in Developmental Neuroscience, Computational models of the brain, Psychophysics and Bayesian statistics.
-
-
 ### Check out my work here:
 
 [Google Scholar](https://scholar.google.com/citations?user=gfAIMlkAAAAJ&hl=en) | [ResearchGate](https://www.researchgate.net/profile/Mervyn-Singh-2)
