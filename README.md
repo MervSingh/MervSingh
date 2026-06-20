@@ -6,7 +6,7 @@
 
 ### Or you can reach me via social media:
 
-[Twitter](https://twitter.com/MervynSingh1) | [LinkedIn](https://www.linkedin.com/in/mervyn-singh/)
+[BlueSky](@mervsingh.bsky.social) | [LinkedIn](https://www.linkedin.com/in/mervyn-singh/)
 
 
 ### GitHub-specific stats
