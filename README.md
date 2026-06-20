@@ -11,8 +11,6 @@
 
 ### GitHub-specific stats
 
-[![Merv's GitHub stats](https://github-readme-stats.vercel.app/api?username=MervSingh)](https://github.com/MervSingh/github-readme-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MervSingh&layout=compact&langs_count=5)](https://github.com/MervSingh/github-readme-stats)
 
 <img src="https://komarev.com/ghpvc/?username=madushadhanushka&color=brightgreen" alt="watching_count" />
